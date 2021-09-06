@@ -1,6 +1,7 @@
 # PowerAppsWithBingMap
 
 Youtube Video for your Refrence : https://www.youtube.com/watch?v=QXsYA4NDqWQ&t=2s
+
 Blog for your Reference : https://microsoftcrmtechie.blogspot.com/2021/09/powerapps-with-bing-maps.html
 
 Default for Label 1 : Location.Latitude
